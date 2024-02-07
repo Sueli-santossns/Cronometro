@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ff8a00, #da1b60, #ff8a00);
+  color: white;
+  }
+  
+  .timer {
+    font-size: 2em;
+    margin: 20px;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 10px;
+    color:#000;
+    border-radius: 15px;
+  }
+  
